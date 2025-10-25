@@ -1,0 +1,11 @@
+{
+  "domain": "extron_mav",
+  "name": "Extron MAV Matrix",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/Tycho-MEC/extron_mav",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.0.1"
+}

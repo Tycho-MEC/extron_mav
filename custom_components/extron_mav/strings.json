@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Extron MAV Matrix Switcher",
+        "description": "Configure your Extron MAV Plus matrix switcher",
+        "data": {
+          "host": "IP Address",
+          "port": "Port",
+          "password": "Password (optional)",
+          "num_inputs": "Number of Inputs",
+          "num_outputs": "Number of Outputs"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the device. Check the IP address and port."
+    },
+    "abort": {
+      "already_configured": "Device is already configured"
+    }
+  }
+}
